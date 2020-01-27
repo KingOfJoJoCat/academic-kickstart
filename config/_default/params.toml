@@ -93,7 +93,7 @@ address = {street = "634 Nedderman Hall", city = "Arlington", region = "TX", pos
 coordinates = {latitude = "32.7324458", longitude = "-97.113531"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Enter Building and go to Office 106 on Floor 1"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -117,7 +117,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "static/img/photo.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""
