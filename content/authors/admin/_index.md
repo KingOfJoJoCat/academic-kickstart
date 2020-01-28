@@ -68,6 +68,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Yipu Qin is a student of Computer Science and Engineering Department at the University of Texas at Arlington (UTA). He major in Artificial Intelligence. He devotes time to learning artificial intelligence, advanced mathematics and data mining. He has have a essential role in an Agricultural Robot with Visual Recognition project and get a natural rating.
+Interests
