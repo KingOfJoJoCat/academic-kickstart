@@ -33,7 +33,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Bachelor student"
   company = "Beijing University of Posts and Telecommunications"
-  company_url = "www.bupt.edu.cn"
+  company_url = "http://www.bupt.edu.cn"
   location = "Beijing"
   date_start = "2015-09-01"
   date_end = "2019-06-01"
