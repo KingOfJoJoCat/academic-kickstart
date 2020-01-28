@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Master Student"
   company = "University of Texas in Arlington"
-  company_url = "www.uta.edu"
+  company_url = "http://www.uta.edu"
   location = "Texas"
   date_start = "2019-08-01"
   date_end = ""
