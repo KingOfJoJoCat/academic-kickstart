@@ -69,4 +69,4 @@ user_groups:
 ---
 
 Yipu Qin is a student of Computer Science and Engineering Department at the University of Texas at Arlington (UTA). He major in Artificial Intelligence. He devotes time to learning artificial intelligence, advanced mathematics and data mining. He has have a essential role in an Agricultural Robot with Visual Recognition project and get a natural rating.
-Interests
+
