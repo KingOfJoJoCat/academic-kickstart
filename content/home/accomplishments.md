@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "BUPT"
-  organization_url = "https://www.bupt.edu"
+  organization_url = "https://www.bupt.edu.cn"
   title = "University Students Innovation and Entrepreneurship Competition"
   url = ""
   certificate_url = ""
