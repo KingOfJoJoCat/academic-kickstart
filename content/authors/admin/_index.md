@@ -45,7 +45,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/feed/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BtrttRQCbQeu6q30A%2FVztXQ%3D%3Dtwitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/%E4%B9%89%E6%99%AE-%E7%A7%A6-51137a1a0
 - icon: cv
   icon_pack: ai
   link: img/cv.pdf
