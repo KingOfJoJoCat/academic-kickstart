@@ -46,12 +46,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/feed/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BtrttRQCbQeu6q30A%2FVztXQ%3D%3Dtwitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
+- icon: file
+  icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/KingOfJoJoCat
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
