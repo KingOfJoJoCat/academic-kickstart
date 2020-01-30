@@ -48,7 +48,7 @@ social:
   link: https://www.linkedin.com/feed/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BtrttRQCbQeu6q30A%2FVztXQ%3D%3Dtwitter.com/GeorgeCushen
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: img/cv.pdf
 - icon: github
   icon_pack: fab
   link: https://github.com/KingOfJoJoCat
