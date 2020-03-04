@@ -42,7 +42,7 @@ education:
 social:
 - icon: kaggle
   icon_pack: fab
-  link: img/BasicNLPbyusingTensorFlow.ipynb
+  link: https://www.kaggle.com/yipuqin 
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/%E4%B9%89%E6%99%AE-%E7%A7%A6-51137a1a0
