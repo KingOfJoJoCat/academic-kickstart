@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "Assignment2-view"
+  name = "Assignment2View"
   url = "#posts"
   weight = 20
 
@@ -34,7 +34,7 @@ url = "img/BasicNLPbyusingTensorFlow.ipynb"
 weight = 70
 
 [[main]]
-name = "Assignment2"
+name = "Assignment2download"
 url = "img/Assignment2.ipynb"
 weight = 70
 
