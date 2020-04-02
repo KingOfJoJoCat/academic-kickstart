@@ -449,7 +449,11 @@ p3 = plt.bar(x = [i+0.6 for i in range(len(accuracy_cos_dist))], height = accura
 plt.legend()
 plt.show()
 ```
-
+The x axis is the value of accuracy (from 0.9 to 1.0).
+The y axis is the value of k (from 1 to 20).
+The blue bar is the result by using euclidean diatance.
+The green bar is the result by using normalized euclidean distance.
+The red bar is the result by using cosine similirity.
 
 ![png](./index_19_0.png)
 
