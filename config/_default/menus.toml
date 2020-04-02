@@ -30,12 +30,12 @@ url = "img/BasicNLPbyusingTensorFlow.ipynb"
 weight = 70
 
 [[main]]
-  name = "Assignment2View"
+  name = "Assignment2-View"
   url = "#posts"
   weight = 20
 
 [[main]]
-name = "Assignment2download"
+name = "Assignment2-download"
 url = "img/Assignment2.ipynb"
 weight = 70
 
