@@ -1,6 +1,6 @@
 ---
 date: 2020-4-2
-title: Assignment2
+title: Assignment2-view
 ---
 a.Divide the dataset as development and test.
 
