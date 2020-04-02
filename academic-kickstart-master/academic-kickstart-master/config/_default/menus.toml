@@ -8,6 +8,10 @@
   url = "#about"
   weight = 10
 
+[[main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 20
 
 [[main]]
   name = "Projects"
@@ -30,12 +34,7 @@ url = "img/BasicNLPbyusingTensorFlow.ipynb"
 weight = 70
 
 [[main]]
-  name = "Assignment2-View"
-  url = "#posts"
-  weight = 20
-
-[[main]]
-name = "Assignment2-download"
+name = "Assignment2"
 url = "img/Assignment2.ipynb"
 weight = 70
 
