@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "Assignment2-view"
   url = "#posts"
   weight = 20
 
